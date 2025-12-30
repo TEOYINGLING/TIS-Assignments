@@ -7,4 +7,4 @@ https://github.com/TEOYINGLING/TIS-Assignments/blob/main/Assignment%201(UTMDigit
 https://github.com/TEOYINGLING/TIS-Assignments/blob/main/Assignment%202(Industry%20Talk%201.Poster).pdf
 
 # Assignments 3:ACADEMIC WRITING on INDUSTRY TALK 2 
-
+https://github.com/TEOYINGLING/TIS-Assignments/blob/main/Assignment%203(Industry%20Talk%202.Academic%20Writing).pdf
