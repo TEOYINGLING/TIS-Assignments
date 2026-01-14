@@ -22,6 +22,8 @@ Reflection:
 Industry Talk 2 with Ts. Hj. Abdul Alim bin Abdul Muttalib opened my eyes. He shared that knowing theory is not enough—you have to use it in real work. His example of system development as cooking nasi lemak made it easy to understand: planning, preparing, cooking, testing, and serving. In Graphic and Multimedia projects, this means planning carefully, working well in teams, and testing your work to make it better. The main lesson I learned is that learning is just the start; real success comes from applying knowledge and improving your work.
 
 # Assignments 4:NEWSLETTER on INDUSTRY VISIT 2 to Johor Port
+https://github.com/TEOYINGLING/TIS-Assignments/blob/main/Assignment%204(NEWSLETTER%20on%20Industrial%20Visit%202).pdf
+
 Reflection: 
 
 The visit to Johor Port helped us see how ICT supports large industrial operations. Before, we only thought of ports as handling cargo, but we learned that technology keeps everything efficient, safe, and running smoothly.
