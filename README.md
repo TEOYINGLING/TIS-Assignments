@@ -56,6 +56,7 @@ I need to practice hardware assembly and disassembly more frequently to improve 
 # Design Thinking Project-CAMPUS BUS TRACKING APP
 https://github.com/TEOYINGLING/TIS-Assignments/blob/main/Design%20Thinking%20Project%20Prototype.pdf
 https://github.com/TEOYINGLING/TIS-Assignments/blob/main/Design%20Thinking%20Project%20Report.pdf
+https://github.com/TEOYINGLING/TIS-Assignments/blob/main/Design%20Thinking%20Project%20Slide.pptx
 
 Reflection:
 
