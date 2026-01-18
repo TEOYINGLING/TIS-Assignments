@@ -54,6 +54,8 @@ Improvement:
 I need to practice hardware assembly and disassembly more frequently to improve my confidence and efficiency. Since the process involves many cables and components, I should be more careful and organized to avoid confusion and assembly errors. In addition, reviewing hardware components and their connections before starting will help me work more accurately and reduce mistakes.
 
 # Design Thinking Project-CAMPUS BUS TRACKING APP
+https://github.com/TEOYINGLING/TIS-Assignments/blob/main/Design%20Thinking%20Project%20Prototype.pdf
+
 Reflection:
 
 Working on the campus bus tracking app through this design thinking project was a valuable learning experience. I discovered how crucial it is to understand the users’ real needs and challenges before jumping into designing the interface or building the system. Planning the app’s structure and mapping out the user experience taught me how theory from the classroom can be applied to practical, real-world problems. This project not only improved my technical skills but also gave me a clearer perspective on the problem-solving and planning required in software development. Overall, it strengthened my confidence and motivated me to continue developing my skills toward becoming a software developer.
