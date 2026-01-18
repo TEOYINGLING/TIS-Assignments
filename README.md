@@ -58,7 +58,7 @@ Prototype:https://github.com/TEOYINGLING/TIS-Assignments/blob/main/Design%20Thin
 
 Report:https://github.com/TEOYINGLING/TIS-Assignments/blob/main/Design%20Thinking%20Project%20Report.pdf
 
-Slide:
+Slide:https://github.com/TEOYINGLING/TIS-Assignments/blob/main/Design%20Thinking%20Project%20Slide.pptx
 
 Video:
 
