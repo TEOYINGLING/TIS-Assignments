@@ -1,6 +1,6 @@
 # TIS-Assignments:
 
-# Assignments 1:VIDEO BLOG (VLOG) on INDUSTRY VISIT 1 to UTMDigital Open Day
+# Assignments 1:VIDEO BLOG (VLOG) on INDUSTRY VISIT 1 to UTM Digital Open Day
 https://github.com/TEOYINGLING/TIS-Assignments/blob/main/Assignment%201(UTMDigital%20Open%20Day).mp4
 
 Reflection: 
@@ -47,7 +47,7 @@ After the visit, I realized that I need to better understand how ICT is used in 
 # PC Assemble Lab:
 Reflection:
 
-The hardware assembly and disassembly lab was a valuable hands-on learning experience. Through this activity, I learned how to properly handle various computer components, connect them correctly, and take precautions to prevent damage. The lab significantly improved my confidence and practical skills in working with computer hardware.Additionally, I realized that assembling and disassembling hardware is not simply about following instructions; it requires careful attention, patience, and precision. These skills are essential for ensuring system reliability and are highly important for my future studies and career in the field of technology
+The hardware assembly and disassembly lab was a valuable hands-on learning experience. Through this activity, I learned how to properly handle various computer components, connect them correctly, and take precautions to prevent damage. The lab significantly improved my confidence and practical skills in working with computer hardware.Additionally, I realized that assembling and disassembling hardware is not simply about following instructions; it requires careful attention, patience, and precision. These skills are essential for ensuring system reliability and are highly important for my future studies and career in the field of technology.
 
 Improvement:
 
@@ -60,7 +60,7 @@ Report:https://github.com/TEOYINGLING/TIS-Assignments/blob/main/Design%20Thinkin
 
 Slide:https://github.com/TEOYINGLING/TIS-Assignments/blob/main/Design%20Thinking%20Project%20Slide.pptx
 
-Video:
+Video:https://github.com/TEOYINGLING/TIS-Assignments/blob/main/Design%20Thinking%20Project%20Video.mp4
 
 
 Reflection:
