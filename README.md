@@ -54,9 +54,11 @@ Improvement:
 I need to practice hardware assembly and disassembly more frequently to improve my confidence and efficiency. Since the process involves many cables and components, I should be more careful and organized to avoid confusion and assembly errors. In addition, reviewing hardware components and their connections before starting will help me work more accurately and reduce mistakes.
 
 # Design Thinking Project-CAMPUS BUS TRACKING APP
-https://github.com/TEOYINGLING/TIS-Assignments/blob/main/Design%20Thinking%20Project%20Prototype.pdf
-https://github.com/TEOYINGLING/TIS-Assignments/blob/main/Design%20Thinking%20Project%20Report.pdf
-https://github.com/TEOYINGLING/TIS-Assignments/blob/main/Design%20Thinking%20Project%20Slide.pptx
+PROTOTYPR: https://github.com/TEOYINGLING/TIS-Assignments/blob/main/Design%20Thinking%20Project%20Prototype.pdf
+
+REPORT: https://github.com/TEOYINGLING/TIS-Assignments/blob/main/Design%20Thinking%20Project%20Report.pdf
+
+SLIDE: https://github.com/TEOYINGLING/TIS-Assignments/blob/main/Design%20Thinking%20Project%20Slide.pptx
 
 Reflection:
 
