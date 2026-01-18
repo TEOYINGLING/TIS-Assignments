@@ -52,3 +52,12 @@ The hardware assembly and disassembly lab was a valuable hands-on learning exper
 Improvement:
 
 I need to practice hardware assembly and disassembly more frequently to improve my confidence and efficiency. Since the process involves many cables and components, I should be more careful and organized to avoid confusion and assembly errors. In addition, reviewing hardware components and their connections before starting will help me work more accurately and reduce mistakes.
+
+# Design Thinking Project-CAMPUS BUS TRACKING APP
+Reflection:
+
+Working on the campus bus tracking app through this design thinking project was a valuable learning experience. I discovered how crucial it is to understand the users’ real needs and challenges before jumping into designing the interface or building the system. Planning the app’s structure and mapping out the user experience taught me how theory from the classroom can be applied to practical, real-world problems. This project not only improved my technical skills but also gave me a clearer perspective on the problem-solving and planning required in software development. Overall, it strengthened my confidence and motivated me to continue developing my skills toward becoming a software developer.
+
+Improvement:
+
+Through the campus bus tracking app project, I realized areas where I could improve and actively worked on them. I enhanced my problem-solving skills by analyzing user needs more carefully and strengthened my organization and attention to detail while planning the system architecture and designing the UI. I also gained confidence in applying classroom knowledge to real-world challenges. Moving forward, I plan to further develop my technical skills in mobile app development and UI/UX design, while improving my communication and teamwork abilities to collaborate more effectively on future projects.
