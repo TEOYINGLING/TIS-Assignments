@@ -1,7 +1,7 @@
 # TIS-Assignments:
 
 # Assignments 1:VIDEO BLOG (VLOG) on INDUSTRY VISIT 1 to UTM Digital Open Day
-https://github.com/TEOYINGLING/TIS-Assignments/blob/main/Assignment%201(UTMDigital%20Open%20Day).mp4
+https://github.com/TEOYINGLING/TIS-Assignments/blob/main/Assignment%201(Industry%20Visit%201%20to%20UTM%20Digital%20Open%20Day).mp4
 
 Reflection: 
 
